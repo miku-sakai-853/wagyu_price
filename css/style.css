@@ -11,6 +11,10 @@ a:hover {
   text-decoration: none;
 }
 
+.log-in {
+  background-color: #00FF00;
+}
+
 p {
   color: #fff;
 }
